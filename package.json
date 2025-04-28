@@ -1,0 +1,14 @@
+{
+  "name": "agrupar-containers",
+  "version": "1.0.0",
+  "description": "API para agrupar pedidos em containers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "uuid": "^9.0.1"
+  }
+}
